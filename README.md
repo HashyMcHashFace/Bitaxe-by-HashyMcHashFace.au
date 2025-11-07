@@ -2,12 +2,14 @@
 
 
 
-<div style="text-align: center; margin: 25px;">
-  <img 
-    src="https://github.com/HashyMcHashFace/Bitaxe-by-HashyMcHashFace.au/blob/main/repoImages/HashyLogo.png?raw=true" 
-    alt="Hashy McHashface Logo" 
+<p align="center">
+  <img
+    src="https://github.com/HashyMcHashFace/Bitaxe-by-HashyMcHashFace.au/blob/main/repoImages/HashyLogo.png?raw=true"
+    alt="Hashy McHashface Logo"
     height="250">
-</div>
+</p>
+
+<br>
 
 > Open-source performance miners designed for solo Bitcoin mining.  
 > Built by the community. Refined for the future.
