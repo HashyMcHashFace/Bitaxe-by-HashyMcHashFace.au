@@ -9,7 +9,7 @@
     height="250">
 </p>
 
-<br>
+---
 
 > Open-source performance miners designed for solo Bitcoin mining.  
 > Built by the community. Refined for the future.
